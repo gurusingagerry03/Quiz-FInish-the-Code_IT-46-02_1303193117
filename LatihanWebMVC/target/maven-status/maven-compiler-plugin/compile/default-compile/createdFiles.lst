@@ -1,0 +1,7 @@
+com\mycompany\latihanwebmvc\Controller\DeleteUserServlet.class
+com\mycompany\latihanwebmvc\Model\User.class
+com\mycompany\latihanwebmvc\resources\JakartaEE10Resource.class
+com\mycompany\latihanwebmvc\JakartaRestConfiguration.class
+com\mycompany\latihanwebmvc\Controller\AddUserServlet.class
+com\mycompany\latihanwebmvc\Controller\LoginController.class
+com\mycompany\latihanwebmvc\Controller\LogoutController.class
